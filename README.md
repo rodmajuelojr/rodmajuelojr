@@ -26,6 +26,8 @@ Below are some of the technologies I've used all throughout my career. Right now
 ![](https://img.shields.io/badge/API-REST_SOAP_GraphQL_OAS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CLOUD-AWS_Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IT-Hardware_Software_Networks-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MICROSOFT-Active_Directory_Exchange_Office_365-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AWS-EC2_S3_CLI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 # :e-mail:  Connect with me
